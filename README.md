@@ -3,6 +3,7 @@
 ## About
 This system detects and recognizes faces from real-time video and sends image to owner's email if the face is not recognized.
 
+
 Download the below packages to run this.
 ## packages needed
   1. opencv
