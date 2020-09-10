@@ -19,7 +19,7 @@ Download the below packages to run this.
 ## Instructions:
   1. Download this folder.
   
-  2. Crate two empty folders named 'dataset' and 'trainer' in the above folder.
+  2. Crate two empty folders named 'dataset' and 'trainer' in the above folder if not there.
   
   3. Run the first code, enter number '1' (for first person), then computer will take your face pictures and save into 'dataset' folder.
   When finish taking pictures, "[INFO] Exiting Program and cleanup stuff" pops up.
